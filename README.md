@@ -12,11 +12,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Switch between viewing Daily, Weekly, and Monthly stats
 
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/easybank-responsive-landing-page-BHOhoNIia)
-- [Live Site URL](https://time-tracking-dashboard-developingweb.vercel.app)
-
 ### Built with
 
 - Semantic HTML5 markup
